@@ -1,0 +1,5 @@
+project: spade
+target: bulk_load_int_fuzz
+
+cmds:
+  - cmd: /bulk_load_int_fuzz
